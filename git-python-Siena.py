@@ -1,3 +1,7 @@
 print("Mark Jastine D. Siena")
 print("Brgy. Bagtingon, Buenavista, Marinduque")
 print("September 30, 2001")
+print("Marinduque State College")
+print("BSI/T")
+print("Second Year College")
+print("A")
